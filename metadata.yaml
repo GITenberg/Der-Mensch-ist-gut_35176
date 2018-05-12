@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34488'
     url: http://www.gutenberg.org/2009/agents/34488
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35176#Der-Mensch-ist-gut
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2011-02-05'
 gutenberg_type: Text
