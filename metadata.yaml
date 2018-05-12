@@ -1,0 +1,27 @@
+_repo: Der-Mensch-ist-gut_35176
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35176-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Frank, Leonhard
+    birthdate: 1882
+    deathdate: 1961
+    gutenberg_agent_id: '34488'
+    url: http://www.gutenberg.org/2009/agents/34488
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2011-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35176'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PT'
+title: Der Mensch ist gut
+url: http://www.gutenberg.org/ebooks/35176
